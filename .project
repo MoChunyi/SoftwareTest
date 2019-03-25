@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>test/indi/mcy/ST/Test/hw3/TestHomework3.java</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/Desktop/软件测试/scsst/scsst/test/cn/tju/scsst/hw/TestHomework3.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>
