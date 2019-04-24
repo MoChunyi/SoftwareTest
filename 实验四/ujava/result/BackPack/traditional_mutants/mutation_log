@@ -1,0 +1,501 @@
+AORB_1:19:int_BackPack_Solution(int,int,int,int):n + 1 => n * 1
+AORB_2:19:int_BackPack_Solution(int,int,int,int):n + 1 => n / 1
+AORB_3:19:int_BackPack_Solution(int,int,int,int):n + 1 => n % 1
+AORB_4:19:int_BackPack_Solution(int,int,int,int):n + 1 => n - 1
+AORB_5:19:int_BackPack_Solution(int,int,int,int):m + 1 => m * 1
+AORB_6:19:int_BackPack_Solution(int,int,int,int):m + 1 => m / 1
+AORB_7:19:int_BackPack_Solution(int,int,int,int):m + 1 => m % 1
+AORB_8:19:int_BackPack_Solution(int,int,int,int):m + 1 => m - 1
+AORB_9:20:int_BackPack_Solution(int,int,int,int):n + 1 => n * 1
+AORB_10:20:int_BackPack_Solution(int,int,int,int):n + 1 => n / 1
+AORB_11:20:int_BackPack_Solution(int,int,int,int):n + 1 => n % 1
+AORB_12:20:int_BackPack_Solution(int,int,int,int):n + 1 => n - 1
+AORB_13:23:int_BackPack_Solution(int,int,int,int):m + 1 => m * 1
+AORB_14:23:int_BackPack_Solution(int,int,int,int):m + 1 => m / 1
+AORB_15:23:int_BackPack_Solution(int,int,int,int):m + 1 => m % 1
+AORB_16:23:int_BackPack_Solution(int,int,int,int):m + 1 => m - 1
+AORB_17:26:int_BackPack_Solution(int,int,int,int):n + 1 => n * 1
+AORB_18:26:int_BackPack_Solution(int,int,int,int):n + 1 => n / 1
+AORB_19:26:int_BackPack_Solution(int,int,int,int):n + 1 => n % 1
+AORB_20:26:int_BackPack_Solution(int,int,int,int):n + 1 => n - 1
+AORB_21:27:int_BackPack_Solution(int,int,int,int):m + 1 => m * 1
+AORB_22:27:int_BackPack_Solution(int,int,int,int):m + 1 => m / 1
+AORB_23:27:int_BackPack_Solution(int,int,int,int):m + 1 => m % 1
+AORB_24:27:int_BackPack_Solution(int,int,int,int):m + 1 => m - 1
+AORB_25:28:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_26:28:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_27:28:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_28:28:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_29:29:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_30:29:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_31:29:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_32:29:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_33:29:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_34:29:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_35:29:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_36:29:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_37:29:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_38:29:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_39:29:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_40:29:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_41:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j * w[i - 1]
+AORB_42:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j / w[i - 1]
+AORB_43:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j % w[i - 1]
+AORB_44:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j + w[i - 1]
+AORB_45:29:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_46:29:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_47:29:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_48:29:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_49:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] * p[i - 1]
+AORB_50:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] / p[i - 1]
+AORB_51:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] % p[i - 1]
+AORB_52:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] - p[i - 1]
+AORB_53:30:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_54:30:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_55:30:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_56:30:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_57:30:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_58:30:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_59:30:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_60:30:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_61:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j * w[i - 1]
+AORB_62:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j / w[i - 1]
+AORB_63:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j % w[i - 1]
+AORB_64:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j + w[i - 1]
+AORB_65:30:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_66:30:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_67:30:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_68:30:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_69:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] * p[i - 1]
+AORB_70:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] / p[i - 1]
+AORB_71:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] % p[i - 1]
+AORB_72:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] - p[i - 1]
+AORB_73:32:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_74:32:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_75:32:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_76:32:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORB_77:35:int_BackPack_Solution(int,int,int,int):i - 1 => i * 1
+AORB_78:35:int_BackPack_Solution(int,int,int,int):i - 1 => i / 1
+AORB_79:35:int_BackPack_Solution(int,int,int,int):i - 1 => i % 1
+AORB_80:35:int_BackPack_Solution(int,int,int,int):i - 1 => i + 1
+AORS_1:20:int_BackPack_Solution(int,int,int,int):i++ => i--
+AORS_2:23:int_BackPack_Solution(int,int,int,int):j++ => j--
+AORS_3:26:int_BackPack_Solution(int,int,int,int):i++ => i--
+AORS_4:27:int_BackPack_Solution(int,int,int,int):j++ => j--
+AORS_5:44:void_printPack(int,int,int):i++ => i--
+AORS_6:45:void_printPack(int,int,int):j++ => j--
+AOIU_1:19:int_BackPack_Solution(int,int,int,int):n => -n
+AOIU_2:19:int_BackPack_Solution(int,int,int,int):m => -m
+AOIU_3:30:int_BackPack_Solution(int,int,int,int):i => -i
+AOIU_4:30:int_BackPack_Solution(int,int,int,int):j => -j
+AOIU_5:32:int_BackPack_Solution(int,int,int,int):i => -i
+AOIU_6:32:int_BackPack_Solution(int,int,int,int):j => -j
+AOIU_7:35:int_BackPack_Solution(int,int,int,int):i => -i
+AOIU_8:35:int_BackPack_Solution(int,int,int,int):j => -j
+AOIS_1:19:int_BackPack_Solution(int,int,int,int):n => ++n
+AOIS_2:19:int_BackPack_Solution(int,int,int,int):n => --n
+AOIS_3:19:int_BackPack_Solution(int,int,int,int):n => n++
+AOIS_4:19:int_BackPack_Solution(int,int,int,int):n => n--
+AOIS_5:19:int_BackPack_Solution(int,int,int,int):m => ++m
+AOIS_6:19:int_BackPack_Solution(int,int,int,int):m => --m
+AOIS_7:19:int_BackPack_Solution(int,int,int,int):m => m++
+AOIS_8:19:int_BackPack_Solution(int,int,int,int):m => m--
+AOIS_9:20:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_10:20:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_11:20:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_12:20:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_13:20:int_BackPack_Solution(int,int,int,int):n => ++n
+AOIS_14:20:int_BackPack_Solution(int,int,int,int):n => --n
+AOIS_15:20:int_BackPack_Solution(int,int,int,int):n => n++
+AOIS_16:20:int_BackPack_Solution(int,int,int,int):n => n--
+AOIS_17:23:int_BackPack_Solution(int,int,int,int):j => ++j
+AOIS_18:23:int_BackPack_Solution(int,int,int,int):j => --j
+AOIS_19:23:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_20:23:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_21:23:int_BackPack_Solution(int,int,int,int):m => ++m
+AOIS_22:23:int_BackPack_Solution(int,int,int,int):m => --m
+AOIS_23:23:int_BackPack_Solution(int,int,int,int):m => m++
+AOIS_24:23:int_BackPack_Solution(int,int,int,int):m => m--
+AOIS_25:26:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_26:26:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_27:26:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_28:26:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_29:26:int_BackPack_Solution(int,int,int,int):n => ++n
+AOIS_30:26:int_BackPack_Solution(int,int,int,int):n => --n
+AOIS_31:26:int_BackPack_Solution(int,int,int,int):n => n++
+AOIS_32:26:int_BackPack_Solution(int,int,int,int):n => n--
+AOIS_33:27:int_BackPack_Solution(int,int,int,int):j => ++j
+AOIS_34:27:int_BackPack_Solution(int,int,int,int):j => --j
+AOIS_35:27:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_36:27:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_37:27:int_BackPack_Solution(int,int,int,int):m => ++m
+AOIS_38:27:int_BackPack_Solution(int,int,int,int):m => --m
+AOIS_39:27:int_BackPack_Solution(int,int,int,int):m => m++
+AOIS_40:27:int_BackPack_Solution(int,int,int,int):m => m--
+AOIS_41:28:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_42:28:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_43:28:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_44:28:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_45:28:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_46:28:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_47:29:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_48:29:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_49:29:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_50:29:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_51:29:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_52:29:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_53:29:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_54:29:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_55:29:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_56:29:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_57:29:int_BackPack_Solution(int,int,int,int):j => ++j
+AOIS_58:29:int_BackPack_Solution(int,int,int,int):j => --j
+AOIS_59:29:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_60:29:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_61:29:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_62:29:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_63:29:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_64:29:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_65:29:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_66:29:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_67:29:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_68:29:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_69:30:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_70:30:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_71:30:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_72:30:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_73:30:int_BackPack_Solution(int,int,int,int):j => ++j
+AOIS_74:30:int_BackPack_Solution(int,int,int,int):j => --j
+AOIS_75:30:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_76:30:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_77:30:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_78:30:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_79:30:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_80:30:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_81:30:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_82:30:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_83:30:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_84:30:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_85:32:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_86:32:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_87:32:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_88:32:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_89:32:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_90:32:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_91:35:int_BackPack_Solution(int,int,int,int):i => ++i
+AOIS_92:35:int_BackPack_Solution(int,int,int,int):i => --i
+AOIS_93:35:int_BackPack_Solution(int,int,int,int):i => i++
+AOIS_94:35:int_BackPack_Solution(int,int,int,int):i => i--
+AOIS_95:35:int_BackPack_Solution(int,int,int,int):j => j++
+AOIS_96:35:int_BackPack_Solution(int,int,int,int):j => j--
+AOIS_97:44:void_printPack(int,int,int):i => ++i
+AOIS_98:44:void_printPack(int,int,int):i => --i
+AOIS_99:44:void_printPack(int,int,int):i => i++
+AOIS_100:44:void_printPack(int,int,int):i => i--
+AOIS_101:44:void_printPack(int,int,int):n => ++n
+AOIS_102:44:void_printPack(int,int,int):n => --n
+AOIS_103:44:void_printPack(int,int,int):n => n++
+AOIS_104:44:void_printPack(int,int,int):n => n--
+AOIS_105:45:void_printPack(int,int,int):j => ++j
+AOIS_106:45:void_printPack(int,int,int):j => --j
+AOIS_107:45:void_printPack(int,int,int):j => j++
+AOIS_108:45:void_printPack(int,int,int):j => j--
+AOIS_109:45:void_printPack(int,int,int):m => ++m
+AOIS_110:45:void_printPack(int,int,int):m => --m
+AOIS_111:45:void_printPack(int,int,int):m => m++
+AOIS_112:45:void_printPack(int,int,int):m => m--
+AOIS_113:46:void_printPack(int,int,int):i => ++i
+AOIS_114:46:void_printPack(int,int,int):i => --i
+AOIS_115:46:void_printPack(int,int,int):i => i++
+AOIS_116:46:void_printPack(int,int,int):i => i--
+AOIS_117:46:void_printPack(int,int,int):j => ++j
+AOIS_118:46:void_printPack(int,int,int):j => --j
+AOIS_119:46:void_printPack(int,int,int):j => j++
+AOIS_120:46:void_printPack(int,int,int):j => j--
+AOIS_121:47:void_printPack(int,int,int):j => ++j
+AOIS_122:47:void_printPack(int,int,int):j => --j
+AOIS_123:47:void_printPack(int,int,int):j => j++
+AOIS_124:47:void_printPack(int,int,int):j => j--
+AOIS_125:47:void_printPack(int,int,int):m => ++m
+AOIS_126:47:void_printPack(int,int,int):m => --m
+AOIS_127:47:void_printPack(int,int,int):m => m++
+AOIS_128:47:void_printPack(int,int,int):m => m--
+ROR_1:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i > n + 1
+ROR_2:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i >= n + 1
+ROR_3:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i <= n + 1
+ROR_4:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i == n + 1
+ROR_5:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i != n + 1
+ROR_6:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   true
+ROR_7:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   false
+ROR_8:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j > m + 1
+ROR_9:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j >= m + 1
+ROR_10:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j <= m + 1
+ROR_11:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j == m + 1
+ROR_12:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j != m + 1
+ROR_13:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   true
+ROR_14:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   false
+ROR_15:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i > n + 1
+ROR_16:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i >= n + 1
+ROR_17:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i <= n + 1
+ROR_18:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i == n + 1
+ROR_19:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   i != n + 1
+ROR_20:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   true
+ROR_21:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>   false
+ROR_22:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j > m + 1
+ROR_23:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j >= m + 1
+ROR_24:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j <= m + 1
+ROR_25:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j == m + 1
+ROR_26:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   j != m + 1
+ROR_27:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   true
+ROR_28:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>   false
+ROR_29:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   w[i - 1] > j
+ROR_30:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   w[i - 1] >= j
+ROR_31:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   w[i - 1] < j
+ROR_32:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   w[i - 1] == j
+ROR_33:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   w[i - 1] != j
+ROR_34:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   true
+ROR_35:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>   false
+ROR_36:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   c[i - 1][j] > c[i - 1][j - w[i - 1]] + p[i - 1]
+ROR_37:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   c[i - 1][j] >= c[i - 1][j - w[i - 1]] + p[i - 1]
+ROR_38:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   c[i - 1][j] <= c[i - 1][j - w[i - 1]] + p[i - 1]
+ROR_39:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   c[i - 1][j] == c[i - 1][j - w[i - 1]] + p[i - 1]
+ROR_40:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   c[i - 1][j] != c[i - 1][j - w[i - 1]] + p[i - 1]
+ROR_41:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   true
+ROR_42:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>   false
+ROR_43:44:void_printPack(int,int,int): i <= n  =>   i > n
+ROR_44:44:void_printPack(int,int,int): i <= n  =>   i >= n
+ROR_45:44:void_printPack(int,int,int): i <= n  =>   i < n
+ROR_46:44:void_printPack(int,int,int): i <= n  =>   i == n
+ROR_47:44:void_printPack(int,int,int): i <= n  =>   i != n
+ROR_48:44:void_printPack(int,int,int): i <= n  =>   true
+ROR_49:44:void_printPack(int,int,int): i <= n  =>   false
+ROR_50:45:void_printPack(int,int,int): j <= m  =>   j > m
+ROR_51:45:void_printPack(int,int,int): j <= m  =>   j >= m
+ROR_52:45:void_printPack(int,int,int): j <= m  =>   j < m
+ROR_53:45:void_printPack(int,int,int): j <= m  =>   j == m
+ROR_54:45:void_printPack(int,int,int): j <= m  =>   j != m
+ROR_55:45:void_printPack(int,int,int): j <= m  =>   true
+ROR_56:45:void_printPack(int,int,int): j <= m  =>   false
+ROR_57:47:void_printPack(int,int,int): j == m  =>   j > m
+ROR_58:47:void_printPack(int,int,int): j == m  =>   j >= m
+ROR_59:47:void_printPack(int,int,int): j == m  =>   j < m
+ROR_60:47:void_printPack(int,int,int): j == m  =>   j <= m
+ROR_61:47:void_printPack(int,int,int): j == m  =>   j != m
+ROR_62:47:void_printPack(int,int,int): j == m  =>   true
+ROR_63:47:void_printPack(int,int,int): j == m  =>   false
+COI_1:20:int_BackPack_Solution(int,int,int,int): i < n + 1  =>  !(i < n + 1)
+COI_2:23:int_BackPack_Solution(int,int,int,int): j < m + 1  =>  !(j < m + 1)
+COI_3:26:int_BackPack_Solution(int,int,int,int): i < n + 1  =>  !(i < n + 1)
+COI_4:27:int_BackPack_Solution(int,int,int,int): j < m + 1  =>  !(j < m + 1)
+COI_5:28:int_BackPack_Solution(int,int,int,int): w[i - 1] <= j  =>  !(w[i - 1] <= j)
+COI_6:29:int_BackPack_Solution(int,int,int,int): c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]  =>  !(c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1])
+COI_7:44:void_printPack(int,int,int): i <= n  =>  !(i <= n)
+COI_8:45:void_printPack(int,int,int): j <= m  =>  !(j <= m)
+COI_9:47:void_printPack(int,int,int): j == m  =>  !(j == m)
+LOI_1:19:int_BackPack_Solution(int,int,int,int):n => ~n
+LOI_2:19:int_BackPack_Solution(int,int,int,int):m => ~m
+LOI_3:20:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_4:20:int_BackPack_Solution(int,int,int,int):n => ~n
+LOI_5:20:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_6:21:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_7:23:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_8:23:int_BackPack_Solution(int,int,int,int):m => ~m
+LOI_9:23:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_10:24:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_11:26:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_12:26:int_BackPack_Solution(int,int,int,int):n => ~n
+LOI_13:26:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_14:27:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_15:27:int_BackPack_Solution(int,int,int,int):m => ~m
+LOI_16:27:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_17:28:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_18:28:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_19:29:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_20:29:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_21:29:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_22:29:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_23:29:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_24:29:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_25:30:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_26:30:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_27:30:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_28:30:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_29:30:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_30:30:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_31:32:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_32:32:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_33:32:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_34:32:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_35:35:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_36:35:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_37:35:int_BackPack_Solution(int,int,int,int):i => ~i
+LOI_38:35:int_BackPack_Solution(int,int,int,int):j => ~j
+LOI_39:44:void_printPack(int,int,int):i => ~i
+LOI_40:44:void_printPack(int,int,int):n => ~n
+LOI_41:44:void_printPack(int,int,int):i => ~i
+LOI_42:45:void_printPack(int,int,int):j => ~j
+LOI_43:45:void_printPack(int,int,int):m => ~m
+LOI_44:45:void_printPack(int,int,int):j => ~j
+LOI_45:46:void_printPack(int,int,int):i => ~i
+LOI_46:46:void_printPack(int,int,int):j => ~j
+LOI_47:47:void_printPack(int,int,int):j => ~j
+LOI_48:47:void_printPack(int,int,int):m => ~m
+SDL_1:37:int_BackPack_Solution(int,int,int,int): int[][] c = new int[n + 1][m + 1]; for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; } for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; } for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } } return c;  =>   int[][] c = new int[n + 1][m + 1]; for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; } for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } } return c;
+SDL_2:37:int_BackPack_Solution(int,int,int,int): int[][] c = new int[n + 1][m + 1]; for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; } for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; } for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } } return c;  =>   int[][] c = new int[n + 1][m + 1]; for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; } for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } } return c;
+SDL_3:27:int_BackPack_Solution(int,int,int,int): int[][] c = new int[n + 1][m + 1]; for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; } for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; } for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } } return c;  =>   int[][] c = new int[n + 1][m + 1]; for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; } for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; } return c;
+SDL_4:21:int_BackPack_Solution(int,int,int,int): c[i][0] = 0;  =>  
+SDL_5:23:int_BackPack_Solution(int,int,int,int): for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; }  =>   for (int i = 0;; i++) {     c[i][0] = 0; }
+SDL_6:23:int_BackPack_Solution(int,int,int,int): for (int i = 0; i < n + 1; i++) {     c[i][0] = 0; }  =>   for (int i = 0; i < n + 1;) {     c[i][0] = 0; }
+SDL_7:24:int_BackPack_Solution(int,int,int,int): c[0][j] = 0;  =>  
+SDL_8:26:int_BackPack_Solution(int,int,int,int): for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; }  =>   for (int j = 0;; j++) {     c[0][j] = 0; }
+SDL_9:26:int_BackPack_Solution(int,int,int,int): for (int j = 0; j < m + 1; j++) {     c[0][j] = 0; }  =>   for (int j = 0; j < m + 1;) {     c[0][j] = 0; }
+SDL_10:27:int_BackPack_Solution(int,int,int,int): for (int j = 1; j < m + 1; j++) {     if (w[i - 1] <= j) {         if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {             c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];         } else {             c[i][j] = c[i - 1][j];         }     } else {         c[i][j] = c[i - 1][j];     } }  =>  
+SDL_11:39:int_BackPack_Solution(int,int,int,int): for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } }  =>   for (int i = 1;; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } }
+SDL_12:39:int_BackPack_Solution(int,int,int,int): for (int i = 1; i < n + 1; i++) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } }  =>   for (int i = 1; i < n + 1;) {     for (int j = 1; j < m + 1; j++) {         if (w[i - 1] <= j) {             if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {                 c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];             } else {                 c[i][j] = c[i - 1][j];             }         } else {             c[i][j] = c[i - 1][j];         }     } }
+SDL_13:28:int_BackPack_Solution(int,int,int,int): if (w[i - 1] <= j) {     if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {         c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];     } else {         c[i][j] = c[i - 1][j];     } } else {     c[i][j] = c[i - 1][j]; }  =>  
+SDL_14:38:int_BackPack_Solution(int,int,int,int): for (int j = 1; j < m + 1; j++) {     if (w[i - 1] <= j) {         if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {             c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];         } else {             c[i][j] = c[i - 1][j];         }     } else {         c[i][j] = c[i - 1][j];     } }  =>   for (int j = 1;; j++) {     if (w[i - 1] <= j) {         if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {             c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];         } else {             c[i][j] = c[i - 1][j];         }     } else {         c[i][j] = c[i - 1][j];     } }
+SDL_15:38:int_BackPack_Solution(int,int,int,int): for (int j = 1; j < m + 1; j++) {     if (w[i - 1] <= j) {         if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {             c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];         } else {             c[i][j] = c[i - 1][j];         }     } else {         c[i][j] = c[i - 1][j];     } }  =>   for (int j = 1; j < m + 1;) {     if (w[i - 1] <= j) {         if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {             c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];         } else {             c[i][j] = c[i - 1][j];         }     } else {         c[i][j] = c[i - 1][j];     } }
+SDL_16:29:int_BackPack_Solution(int,int,int,int): if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {     c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1]; } else {     c[i][j] = c[i - 1][j]; }  =>  
+SDL_17:37:int_BackPack_Solution(int,int,int,int): if (w[i - 1] <= j) {     if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {         c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];     } else {         c[i][j] = c[i - 1][j];     } } else {     c[i][j] = c[i - 1][j]; }  =>   if (true) {     if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {         c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];     } else {         c[i][j] = c[i - 1][j];     } } else {     c[i][j] = c[i - 1][j]; }
+SDL_18:35:int_BackPack_Solution(int,int,int,int): c[i][j] = c[i - 1][j];  =>  
+SDL_19:30:int_BackPack_Solution(int,int,int,int): c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1];  =>  
+SDL_20:34:int_BackPack_Solution(int,int,int,int): if (c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1]) {     c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1]; } else {     c[i][j] = c[i - 1][j]; }  =>   if (true) {     c[i][j] = c[i - 1][j - w[i - 1]] + p[i - 1]; } else {     c[i][j] = c[i - 1][j]; }
+SDL_21:32:int_BackPack_Solution(int,int,int,int): c[i][j] = c[i - 1][j];  =>  
+SDL_22:40:int_BackPack_Solution(int,int,int,int): return c;  =>   return 0;
+SDL_23:44:void_printPack(int,int,int): for (int i = 1; i <= n; i++) {     for (int j = 1; j <= m; j++) {         System.out.print( arr[i][j] + \"\\t\" );         if (j == m) {             System.out.println();         }     } }  =>  
+SDL_24:45:void_printPack(int,int,int): for (int j = 1; j <= m; j++) {     System.out.print( arr[i][j] + \"\\t\" );     if (j == m) {         System.out.println();     } }  =>  
+SDL_25:52:void_printPack(int,int,int): for (int i = 1; i <= n; i++) {     for (int j = 1; j <= m; j++) {         System.out.print( arr[i][j] + \"\\t\" );         if (j == m) {             System.out.println();         }     } }  =>   for (int i = 1;; i++) {     for (int j = 1; j <= m; j++) {         System.out.print( arr[i][j] + \"\\t\" );         if (j == m) {             System.out.println();         }     } }
+SDL_26:52:void_printPack(int,int,int): for (int i = 1; i <= n; i++) {     for (int j = 1; j <= m; j++) {         System.out.print( arr[i][j] + \"\\t\" );         if (j == m) {             System.out.println();         }     } }  =>   for (int i = 1; i <= n;) {     for (int j = 1; j <= m; j++) {         System.out.print( arr[i][j] + \"\\t\" );         if (j == m) {             System.out.println();         }     } }
+SDL_27:49:void_printPack(int,int,int): System.out.print( arr[i][j] + \"\\t\" ); if (j == m) {     System.out.println(); }  =>   if (j == m) {     System.out.println(); }
+SDL_28:47:void_printPack(int,int,int): System.out.print( arr[i][j] + \"\\t\" ); if (j == m) {     System.out.println(); }  =>   System.out.print( arr[i][j] + \"\\t\" );
+SDL_29:51:void_printPack(int,int,int): for (int j = 1; j <= m; j++) {     System.out.print( arr[i][j] + \"\\t\" );     if (j == m) {         System.out.println();     } }  =>   for (int j = 1;; j++) {     System.out.print( arr[i][j] + \"\\t\" );     if (j == m) {         System.out.println();     } }
+SDL_30:51:void_printPack(int,int,int): for (int j = 1; j <= m; j++) {     System.out.print( arr[i][j] + \"\\t\" );     if (j == m) {         System.out.println();     } }  =>   for (int j = 1; j <= m;) {     System.out.print( arr[i][j] + \"\\t\" );     if (j == m) {         System.out.println();     } }
+SDL_31:48:void_printPack(int,int,int): System.out.println();  =>  
+SDL_32:50:void_printPack(int,int,int): if (j == m) {     System.out.println(); }  =>   if (true) {     System.out.println(); }
+VDL_1:19:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+VDL_2:19:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+VDL_3:20:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+VDL_4:20:int_BackPack_Solution(int,int,int,int):i < n + 1 => n + 1
+VDL_5:20:int_BackPack_Solution(int,int,int,int):i++ =>  
+VDL_6:23:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+VDL_7:23:int_BackPack_Solution(int,int,int,int):j < m + 1 => m + 1
+VDL_8:23:int_BackPack_Solution(int,int,int,int):j++ =>  
+VDL_9:26:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+VDL_10:26:int_BackPack_Solution(int,int,int,int):i < n + 1 => n + 1
+VDL_11:26:int_BackPack_Solution(int,int,int,int):i++ =>  
+VDL_12:27:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+VDL_13:27:int_BackPack_Solution(int,int,int,int):j < m + 1 => m + 1
+VDL_14:27:int_BackPack_Solution(int,int,int,int):j++ =>  
+VDL_15:28:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_16:28:int_BackPack_Solution(int,int,int,int):w[i - 1] <= j => j
+VDL_17:28:int_BackPack_Solution(int,int,int,int):w[i - 1] <= j => w[i - 1]
+VDL_18:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_19:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_20:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_21:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => w[i - 1]
+VDL_22:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j
+VDL_23:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_24:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => p[i - 1]
+VDL_25:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]]
+VDL_26:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] + p[i - 1]
+VDL_27:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_28:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_29:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => w[i - 1]
+VDL_30:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j
+VDL_31:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_32:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => p[i - 1]
+VDL_33:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]]
+VDL_34:32:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_35:35:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+VDL_36:44:void_printPack(int,int,int):i <= n => n
+VDL_37:44:void_printPack(int,int,int):i <= n => i
+VDL_38:44:void_printPack(int,int,int):i++ =>  
+VDL_39:45:void_printPack(int,int,int):j <= m => m
+VDL_40:45:void_printPack(int,int,int):j <= m => j
+VDL_41:45:void_printPack(int,int,int):j++ =>  
+VDL_42:46:void_printPack(int,int,int):arr[i][j] + "\t" => "\t"
+VDL_43:47:void_printPack(int,int,int):j == m => m
+VDL_44:47:void_printPack(int,int,int):j == m => j
+ODL_1:19:int_BackPack_Solution(int,int,int,int):n + 1 => n
+ODL_2:19:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+ODL_3:19:int_BackPack_Solution(int,int,int,int):m + 1 => m
+ODL_4:19:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+ODL_5:20:int_BackPack_Solution(int,int,int,int):n + 1 => n
+ODL_6:20:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+ODL_7:20:int_BackPack_Solution(int,int,int,int):i < n + 1 => i
+ODL_8:20:int_BackPack_Solution(int,int,int,int):i < n + 1 => n + 1
+ODL_9:20:int_BackPack_Solution(int,int,int,int):i++ => i
+ODL_10:23:int_BackPack_Solution(int,int,int,int):m + 1 => m
+ODL_11:23:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+ODL_12:23:int_BackPack_Solution(int,int,int,int):j < m + 1 => j
+ODL_13:23:int_BackPack_Solution(int,int,int,int):j < m + 1 => m + 1
+ODL_14:23:int_BackPack_Solution(int,int,int,int):j++ => j
+ODL_15:26:int_BackPack_Solution(int,int,int,int):n + 1 => n
+ODL_16:26:int_BackPack_Solution(int,int,int,int):n + 1 => 1
+ODL_17:26:int_BackPack_Solution(int,int,int,int):i < n + 1 => i
+ODL_18:26:int_BackPack_Solution(int,int,int,int):i < n + 1 => n + 1
+ODL_19:26:int_BackPack_Solution(int,int,int,int):i++ => i
+ODL_20:27:int_BackPack_Solution(int,int,int,int):m + 1 => m
+ODL_21:27:int_BackPack_Solution(int,int,int,int):m + 1 => 1
+ODL_22:27:int_BackPack_Solution(int,int,int,int):j < m + 1 => j
+ODL_23:27:int_BackPack_Solution(int,int,int,int):j < m + 1 => m + 1
+ODL_24:27:int_BackPack_Solution(int,int,int,int):j++ => j
+ODL_25:28:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_26:28:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_27:28:int_BackPack_Solution(int,int,int,int):w[i - 1] <= j => w[i - 1]
+ODL_28:28:int_BackPack_Solution(int,int,int,int):w[i - 1] <= j => j
+ODL_29:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_30:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_31:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_32:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_33:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_34:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_35:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j
+ODL_36:29:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => w[i - 1]
+ODL_37:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_38:29:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_39:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]]
+ODL_40:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => p[i - 1]
+ODL_41:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j]
+ODL_42:29:int_BackPack_Solution(int,int,int,int):c[i - 1][j] < c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]] + p[i - 1]
+ODL_43:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_44:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_45:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_46:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_47:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => j
+ODL_48:30:int_BackPack_Solution(int,int,int,int):j - w[i - 1] => w[i - 1]
+ODL_49:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_50:30:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_51:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => c[i - 1][j - w[i - 1]]
+ODL_52:30:int_BackPack_Solution(int,int,int,int):c[i - 1][j - w[i - 1]] + p[i - 1] => p[i - 1]
+ODL_53:32:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_54:32:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_55:35:int_BackPack_Solution(int,int,int,int):i - 1 => i
+ODL_56:35:int_BackPack_Solution(int,int,int,int):i - 1 => 1
+ODL_57:44:void_printPack(int,int,int):i <= n => i
+ODL_58:44:void_printPack(int,int,int):i <= n => n
+ODL_59:44:void_printPack(int,int,int):i++ => i
+ODL_60:45:void_printPack(int,int,int):j <= m => j
+ODL_61:45:void_printPack(int,int,int):j <= m => m
+ODL_62:45:void_printPack(int,int,int):j++ => j
+ODL_63:46:void_printPack(int,int,int):arr[i][j] + "\t" => arr[i][j]
+ODL_64:46:void_printPack(int,int,int):arr[i][j] + "\t" => "\t"
+ODL_65:47:void_printPack(int,int,int):j == m => j
+ODL_66:47:void_printPack(int,int,int):j == m => m
+CDL_1:19:int_BackPack_Solution(int,int,int,int):n + 1 => n
+CDL_2:19:int_BackPack_Solution(int,int,int,int):m + 1 => m
+CDL_3:20:int_BackPack_Solution(int,int,int,int):n + 1 => n
+CDL_4:23:int_BackPack_Solution(int,int,int,int):m + 1 => m
+CDL_5:26:int_BackPack_Solution(int,int,int,int):n + 1 => n
+CDL_6:27:int_BackPack_Solution(int,int,int,int):m + 1 => m
+CDL_7:28:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_8:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_9:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_10:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_11:29:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_12:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_13:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_14:30:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_15:32:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_16:35:int_BackPack_Solution(int,int,int,int):i - 1 => i
+CDL_17:46:void_printPack(int,int,int):arr[i][j] + "\t" => arr[i][j]

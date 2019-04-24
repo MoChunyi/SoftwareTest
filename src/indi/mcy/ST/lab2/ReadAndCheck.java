@@ -27,8 +27,7 @@ public class ReadAndCheck {
 		driver.get("http://121.193.130.195:8800");			
 		//创建输出文本
 		FileOutputStream fileOut = new FileOutputStream("src/outputFile/workbook.xlsx");
-		Workbook wb = rx.createOutputXlsx(); 
-		
+		Workbook wb = rx.createOutputXlsx(); 		
 		String pathname = "src/namelist/nameList.xlsx";
         try {
             FileInputStream file = new FileInputStream(pathname);
@@ -45,7 +44,6 @@ public class ReadAndCheck {
                 if (c.toString().trim().equals("序号")) {
                     continue;
                 }
-
                 String student_id = new DecimalFormat("#").format(r.getCell(1).getNumericCellValue());
 				String student_name = r.getCell(2).toString();
 				String student_git = r.getCell(3).toString();
@@ -59,13 +57,11 @@ public class ReadAndCheck {
         	try {
 				wb.write(fileOut);
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} finally {
 				wb.close();
 			}
-        }
-		
+        }		
 	}
 	
 	private void setUp() {
@@ -79,7 +75,8 @@ public class ReadAndCheck {
 	}
 	private void login(Student student, WebDriver driver) {
 		driver.findElement(By.cssSelector("input[name=id]")).sendKeys(student.getStudent_id());
-		driver.findElement(By.cssSelector("input[name=password]")).sendKeys(student.getStudent_id().substring(student.getStudent_id().length() - 6));
+		driver.findElement(By.cssSelector("input[name=password]"))
+		.sendKeys(student.getStudent_id().substring(student.getStudent_id().length() - 6));
 		driver.findElement(By.id("btn_login")).click();
 	}
 	

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecb4d46d-6a0a-47c4-9a5a-f6effd3cfd5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BackPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab2/ReadAndCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab2/ReadAndCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/outputFile/workbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outputFile/workbook.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outputFile/workbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputFile/workbook.xlsx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BackPack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/indi/mcy/ST/lab3/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/test/indi/mcy/ST/lab3/TestBubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/indi/mcy/ST/lab3/BackPack.java" />
+        <option value="$PROJECT_DIR$/test/indi/mcy/ST/lab3/TestBackPack.java" />
+        <option value="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="namelist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="outputFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ST" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556086476932" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\1_TERM201902\SoftwareTestLearn\STLab1\src\indi\mcy\ST\lab4" />
+      <recent name="G:\1_TERM201902\SoftwareTestLearn\STLab1\src\indi\mcy\ST\lab3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BackPackTest.testBackPack">
+    <configuration name="BackPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab4.BackPack" />
+      <module name="STLab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.mcy.ST.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab4.BubbleSort" />
+      <module name="STLab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.mcy.ST.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadAndCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab2.ReadAndCheck" />
+      <module name="STLab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.mcy.ST.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackPackTest.testBackPack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STLab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.mcy.ST.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="indi.mcy.ST.lab3" />
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab3.BackPackTest" />
+      <option name="METHOD_NAME" value="testBackPack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STLab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.mcy.ST.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="indi.mcy.ST.lab3" />
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab3.BubbleSortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BackPackTest.testBackPack" />
+        <item itemvalue="Application.BackPack" />
+        <item itemvalue="JUnit.BubbleSortTest" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.ReadAndCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecb4d46d-6a0a-47c4-9a5a-f6effd3cfd5c" name="Default Changelist" comment="" />
+      <created>1554606370113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554606370113</updated>
+      <workItem from="1554606373160" duration="46000" />
+      <workItem from="1554606533676" duration="56000" />
+      <workItem from="1555662970733" duration="4466000" />
+      <workItem from="1556077790017" duration="250000" />
+      <workItem from="1556084818834" duration="791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBubbleSort - 2019.04.19 at 17h 36m 39s.xml">
+      <configuration name="TestBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBackPack_testBackPack - 2019.04.19 at 17h 48m 18s.xml">
+      <configuration name="TestBackPack.testBackPack" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="0" width="783" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33103448" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/indi/mcy/ST/lab3/BubbleSortTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/indi/mcy/ST/lab3/BackPackTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BackPack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
