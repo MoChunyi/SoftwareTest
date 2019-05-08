@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecb4d46d-6a0a-47c4-9a5a-f6effd3cfd5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BackPack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab2/ReadAndCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab2/ReadAndCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/outputFile/workbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outputFile/workbook.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/mcy/ST/lab2/ReadAndCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/outputFile/workbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputFile/workbook.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/BackPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/BackPack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/TestBackPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/TestBackPack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/TestBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indi/mcy/ST/lab4/TestBubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/mcy/ST/hw3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/mcy/ST/hw3/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +27,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="21" column="49" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
+            <state relative-caret-position="506">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/hw3/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +68,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,20 +80,24 @@
         <option value="$PROJECT_DIR$/src/indi/mcy/ST/lab3/BackPack.java" />
         <option value="$PROJECT_DIR$/test/indi/mcy/ST/lab3/TestBackPack.java" />
         <option value="$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/indi/mcy/ST/hw3/test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,20 +127,6 @@
               <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="STLab1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="namelist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -133,37 +138,29 @@
             <path>
               <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="STLab1" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STLab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STLab1" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ST" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556086476932" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557294098524" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PracticalTraining/webDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://60.247.58.117:50018/project/webDemo.git" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\1_TERM201902\SoftwareTestLearn\STLab1\src\indi\mcy\ST\lab4" />
       <recent name="G:\1_TERM201902\SoftwareTestLearn\STLab1\src\indi\mcy\ST\lab3" />
@@ -181,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BackPackTest.testBackPack">
+  <component name="RunManager" selected="Application.test">
     <configuration name="BackPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab4.BackPack" />
       <module name="STLab1" />
@@ -208,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadAndCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.lab2.ReadAndCheck" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.mcy.ST.hw3.test" />
       <module name="STLab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indi.mcy.ST.lab2.*" />
+          <option name="PATTERN" value="indi.mcy.ST.hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="JUnit.BackPackTest.testBackPack" />
         <item itemvalue="Application.BackPack" />
         <item itemvalue="JUnit.BubbleSortTest" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.ReadAndCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +274,19 @@
       <workItem from="1555662970733" duration="4466000" />
       <workItem from="1556077790017" duration="250000" />
       <workItem from="1556084818834" duration="791000" />
+      <workItem from="1557040503253" duration="74000" />
+      <workItem from="1557042093188" duration="746000" />
+      <workItem from="1557276622981" duration="1265000" />
+      <workItem from="1557293043390" duration="1055000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1557293839215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557293839215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -289,12 +298,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5609000" />
+    <option name="totallyTimeSpent" value="8749000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="783" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33103448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,15 +313,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33240223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32496512" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -327,6 +337,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/indi/mcy/ST/lab3/BubbleSortTest.java" />
@@ -345,10 +359,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="https://60.247.58.117:50018/project/webDemo.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/lab4/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
+        <state relative-caret-position="506">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indi/mcy/ST/hw3/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
